@@ -10,3 +10,7 @@ class ScrapeAllListingsItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
+
+class Listing(scrapy.Item):
+    listing_title = scrapy.Field
+    listing_address = scrapy.Field

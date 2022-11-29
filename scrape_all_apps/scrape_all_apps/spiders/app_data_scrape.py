@@ -30,6 +30,9 @@ class AppDataScrapeSpider(scrapy.spiders.SitemapSpider):
 
     def parse_app_page(self, response):
 
+        print(response.url)
+        time.sleep(10)
+
 
         image_url = response.xpath(
             "(//div[@class='vc-app-listing-about-section__title']//img//@src)[1]").get()
