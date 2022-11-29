@@ -1,0 +1,31 @@
+Date: Wed, 27 Jul 2022 07:09:12 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/order-status-tracker>; rel="canonical"
+Etag: W/"4d3c19b958e9085cf59d98e25338f62b"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_s=926ff6c2-fb5b-48f2-84ee-c4c67a9e80dd; domain=shopify.com; path=/; expires=Wed, 27 Jul 2022 07:39:12 GMT; secure; SameSite=Lax
+Set-Cookie: _y=9fb276e9-d5f4-40ef-9638-33c44884e574; domain=shopify.com; path=/; expires=Thu, 27 Jul 2023 07:09:12 GMT; secure; SameSite=Lax
+Set-Cookie: _s=926ff6c2-fb5b-48f2-84ee-c4c67a9e80dd; domain=shopify.com; path=/; expires=Wed, 27 Jul 2022 07:39:12 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=b138019d89fb8353c66dc681a68522fc; path=/; expires=Fri, 26 Aug 2022 17:38:18 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 2bf307c6-b6a6-4d3e-a9d9-64d4e338e6e7
+X-Runtime: 0.292669
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=312, socket_queue;dur=1.808, edge;dur=1.05
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=2bf307c6-b6a6-4d3e-a9d9-64d4e338e6e7
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=2bf307c6-b6a6-4d3e-a9d9-64d4e338e6e7
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QfuF6tuiz%2F5iBSS4lOKs8%2BHzE4HDuAj4WG3T%2Bnxr6dq9SQeO415X%2Fge6kqL25niIMq3mw%2FuAjZtYRYllujCSyp2qpCVL27kVlvffAxL7qkokH%2BpU315kXGOeWB7O2nhvtV4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 73138c56c8bc82c3-IAD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

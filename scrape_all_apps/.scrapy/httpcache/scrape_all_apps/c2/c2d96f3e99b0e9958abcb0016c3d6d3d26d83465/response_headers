@@ -1,0 +1,30 @@
+Date: Thu, 01 Sep 2022 14:19:11 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/pibox-storage>; rel="canonical"
+Etag: W/"24fa6fa1db3422d74aeae589964fb9f7"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_s=4b812af6-5256-4723-adfb-fb3ad5777d38; domain=shopify.com; path=/; expires=Thu, 01 Sep 2022 14:49:11 GMT; secure; SameSite=Lax
+Set-Cookie: _y=5c34261b-78d6-4b6f-865b-faef1564cca7; domain=shopify.com; path=/; expires=Fri, 01 Sep 2023 14:19:11 GMT; secure; SameSite=Lax
+Set-Cookie: _s=4b812af6-5256-4723-adfb-fb3ad5777d38; domain=shopify.com; path=/; expires=Thu, 01 Sep 2022 14:49:11 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=e1d412b8b5ba9570df88a947421d3e8b; path=/; expires=Sun, 02 Oct 2022 00:48:17 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 1553b93b-6d84-44bc-9026-267f745aab5c
+X-Runtime: 0.256410
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=281, socket_queue;dur=1.658, edge;dur=2.06
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=1553b93b-6d84-44bc-9026-267f745aab5c
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=1553b93b-6d84-44bc-9026-267f745aab5c
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DcDG0j7KNZMQqa2mN3HO7m7CwH%2FICjudFSTBMUY7HUdpl7NE%2Bw%2FAu%2FJFWSprQ6RCmL3R8BPTwdiNyMlix9XoZ33Ux%2F4W1fXROj3SYey67UG178ei6AhSh0c1%2B7%2FgztTE7lk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 743ea3b4fe8c67ce-MIA
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

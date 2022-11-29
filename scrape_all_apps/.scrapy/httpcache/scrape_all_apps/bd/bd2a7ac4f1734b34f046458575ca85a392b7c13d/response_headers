@@ -1,0 +1,32 @@
+Date: Tue, 15 Nov 2022 11:17:43 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/orangetwig>; rel="canonical"
+Etag: W/"23d967c577cbf73b49109058d93da600"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_y=ec952b12-d6ef-4307-927f-76d32d39c5f1; domain=shopify.com; path=/; expires=Wed, 15 Nov 2023 11:17:43 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify_s=86961236-e148-4c6f-a9b4-a0d733bee65f; domain=shopify.com; path=/; expires=Tue, 15 Nov 2022 11:47:43 GMT; secure; SameSite=Lax
+Set-Cookie: _y=ec952b12-d6ef-4307-927f-76d32d39c5f1; domain=shopify.com; path=/; expires=Wed, 15 Nov 2023 11:17:43 GMT; secure; SameSite=Lax
+Set-Cookie: _s=86961236-e148-4c6f-a9b4-a0d733bee65f; domain=shopify.com; path=/; expires=Tue, 15 Nov 2022 11:47:43 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=32630cbdddf074260b8ba94a939785a4; path=/; expires=Thu, 15 Dec 2022 21:46:49 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 0caabe1f-eb13-4495-8380-35c9535c098c
+X-Runtime: 0.261351
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=262, socket_queue;dur=1.623, edge;dur=1.064
+Server-Timing: cfRequestDuration;dur=581.999779
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=0caabe1f-eb13-4495-8380-35c9535c098c
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=0caabe1f-eb13-4495-8380-35c9535c098c
+X-App-Name: appstore
+X-Dc: gcp-us-central1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=NcHE58nZV%2F26n68CpweOXqOcKgOdeKLx8ygBmXmiYEeIPCLe7o9NGsqSU0fck6a6E%2FMzST2wzPNDbJpEYGUNVmj6oZBhSt7JljdJkiI%2FETJi2lRc7jNd4NVSzA%2Fc%2BqFGK3w%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 76a794fee88ca08d-SIN
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

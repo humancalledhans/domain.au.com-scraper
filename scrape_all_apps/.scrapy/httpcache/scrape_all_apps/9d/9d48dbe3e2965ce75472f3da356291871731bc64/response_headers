@@ -1,0 +1,31 @@
+Date: Sat, 20 Aug 2022 01:20:13 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/customer-order-management-by-webkul>; rel="canonical"
+Etag: W/"c84c92f0a77ee104a1aafcf017626e3c"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_s=c8d0a0c8-7be0-4a65-b831-6a4a7ab777ec; domain=shopify.com; path=/; expires=Sat, 20 Aug 2022 01:50:12 GMT; secure; SameSite=Lax
+Set-Cookie: _y=f87f59ad-3d2a-493f-8bd6-56e583a485c3; domain=shopify.com; path=/; expires=Sun, 20 Aug 2023 01:20:12 GMT; secure; SameSite=Lax
+Set-Cookie: _s=c8d0a0c8-7be0-4a65-b831-6a4a7ab777ec; domain=shopify.com; path=/; expires=Sat, 20 Aug 2022 01:50:12 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=1143af37cc28f160c0f727814f0e124b; path=/; expires=Mon, 19 Sep 2022 11:49:19 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 8c6c818b-acf4-41cd-b560-9d6f2fdc8715
+X-Runtime: 0.281266
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=295, socket_queue;dur=1.847, edge;dur=1.108
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=8c6c818b-acf4-41cd-b560-9d6f2fdc8715
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=8c6c818b-acf4-41cd-b560-9d6f2fdc8715
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EcKNO0Mb42gE3kbNDVlbJHw1QSZCADUomVhbGmLua4K2X93BR2O2i6rUYdgKRQXnR%2FY3L7y1%2BooXrkHarNDqd7YJSc3YlGnWAYgRAT8ZqY6iIX3C%2F6DtSjcHpsyPvRrvnt8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 73d74e20abd97cf2-LAX
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
