@@ -1,0 +1,30 @@
+Content-Length: 21
+Date: Mon, 14 Nov 2022 11:09:33 GMT
+Content-Type: text/plain; charset=utf-8
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/elfsight-portfolio>; rel="canonical"
+Cache-Control: no-cache
+Set-Cookie: _shopify_y=2b1a2e2f-afd1-44e2-94d9-03005830cded; domain=shopify.com; path=/; expires=Tue, 14 Nov 2023 11:09:33 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify_s=d4030623-65bd-4eab-9af2-9973ec852f13; domain=shopify.com; path=/; expires=Mon, 14 Nov 2022 11:39:33 GMT; secure; SameSite=Lax
+Set-Cookie: _y=2b1a2e2f-afd1-44e2-94d9-03005830cded; domain=shopify.com; path=/; expires=Tue, 14 Nov 2023 11:09:33 GMT; secure; SameSite=Lax
+Set-Cookie: _s=d4030623-65bd-4eab-9af2-9973ec852f13; domain=shopify.com; path=/; expires=Mon, 14 Nov 2022 11:39:33 GMT; secure; SameSite=Lax
+X-Request-Id: 371c0c61-0d11-4224-b615-eaacb2f9f6b3
+X-Runtime: 0.007911
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=16, socket_queue;dur=1.005, edge;dur=2.061
+Server-Timing: cfRequestDuration;dur=328.000069
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=371c0c61-0d11-4224-b615-eaacb2f9f6b3
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=371c0c61-0d11-4224-b615-eaacb2f9f6b3
+X-App-Name: appstore
+X-Dc: gcp-us-central1,us-east1,gke
+Cf-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VghfDYm%2FBGbINEq%2BegkIbM2o1DNB96lu2tSbbhd89JGi6Mxb5FCE3%2BBdZ%2BxMLhI9zv%2BrsJxoE2rzVNASM43GvMeIHRsZTU7KOj7YG7TXw9nZINrXo61I5oaYkxNs0to7NJg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 769f4bacbfe74ca7-SIN
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

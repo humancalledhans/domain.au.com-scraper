@@ -1,0 +1,28 @@
+Date: Fri, 02 Sep 2022 11:01:39 GMT
+Content-Type: text/plain; charset=utf-8
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/bulk-products-order>; rel="canonical"
+Cache-Control: no-cache
+Set-Cookie: _shopify_s=e3c54519-0160-4932-ad07-34ecdbd52bba; domain=shopify.com; path=/; expires=Fri, 02 Sep 2022 11:31:39 GMT; secure; SameSite=Lax
+Set-Cookie: _y=7efc9565-812f-4a68-afe9-a16b124167d9; domain=shopify.com; path=/; expires=Sat, 02 Sep 2023 11:01:39 GMT; secure; SameSite=Lax
+Set-Cookie: _s=e3c54519-0160-4932-ad07-34ecdbd52bba; domain=shopify.com; path=/; expires=Fri, 02 Sep 2022 11:31:39 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=bf504b4670228a8c7866c8e30df224c8; path=/; expires=Sun, 02 Oct 2022 21:30:45 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: b8f84563-e083-4a51-a6d2-301b134eb07c
+X-Runtime: 0.014370
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=15, socket_queue;dur=1.256, edge;dur=1.046
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=b8f84563-e083-4a51-a6d2-301b134eb07c
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=b8f84563-e083-4a51-a6d2-301b134eb07c
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Cf-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RG0MUfQUibmP4M7DJx%2Ft0dT8PApz7Gy%2B5RpZPL2pYC1C4PgPBD9ak8c3e99jHZ4qldeWoMDJGrWMcxoBEn0ag6aMv7wQIZFrHVVzPaWTYmTP7S3MS87XKfBJs04S9nUF%2FJU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 7445bfb7592a1825-EWR
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
