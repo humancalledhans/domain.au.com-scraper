@@ -1,0 +1,32 @@
+Date: Sat, 14 May 2022 04:39:59 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/oview>; rel="canonical"
+Etag: W/"426eeb027c5551333a39d8324d2de548"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_y=f66de9a4-f31e-424e-a987-e8f06930b9dd; domain=shopify.com; path=/; expires=Sun, 14 May 2023 04:39:56 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify_s=0ec816a9-8a41-4ab4-ab1f-a30451e3c26b; domain=shopify.com; path=/; expires=Sat, 14 May 2022 05:09:56 GMT; secure; SameSite=Lax
+Set-Cookie: _y=f66de9a4-f31e-424e-a987-e8f06930b9dd; domain=shopify.com; path=/; expires=Sun, 14 May 2023 04:39:56 GMT; secure; SameSite=Lax
+Set-Cookie: _s=0ec816a9-8a41-4ab4-ab1f-a30451e3c26b; domain=shopify.com; path=/; expires=Sat, 14 May 2022 05:09:56 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=a27f65e1b0a2fbccf4870654ec9c4586; path=/; expires=Mon, 13 Jun 2022 15:09:05 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 40eca46a-3560-4e07-8268-04009bda1a90
+X-Runtime: 2.604616
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=2605, socket_queue;dur=1.976, edge;dur=1.081
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=40eca46a-3560-4e07-8268-04009bda1a90
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=40eca46a-3560-4e07-8268-04009bda1a90
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WPx7DwzTQVvpCAbjEDCPZiJ42Jf1qKaixaM1Mz3xdCylwe6dCVN1fX30jua0X3SXoCT6b5sMRaZYrpXObAVgfgPTNfud8CpbIfzL1mISB9L%2B3uMB55AuGJu%2B6MhM3Jeo7dc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 70b0f3f12d397570-KUL
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
