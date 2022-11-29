@@ -1,0 +1,29 @@
+Date: Fri, 24 Jun 2022 18:04:00 GMT
+Content-Type: text/plain; charset=utf-8
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/briteco>; rel="canonical"
+Cache-Control: no-cache
+Set-Cookie: _shopify_y=bdb69565-0631-427a-a74a-ec999417723c; domain=shopify.com; path=/; expires=Sat, 24 Jun 2023 18:04:00 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify_s=d13fe25d-9509-415e-ae44-81f3f98870e1; domain=shopify.com; path=/; expires=Fri, 24 Jun 2022 18:34:00 GMT; secure; SameSite=Lax
+Set-Cookie: _y=bdb69565-0631-427a-a74a-ec999417723c; domain=shopify.com; path=/; expires=Sat, 24 Jun 2023 18:04:00 GMT; secure; SameSite=Lax
+Set-Cookie: _s=d13fe25d-9509-415e-ae44-81f3f98870e1; domain=shopify.com; path=/; expires=Fri, 24 Jun 2022 18:34:00 GMT; secure; SameSite=Lax
+X-Request-Id: 52751821-5d53-4369-b252-31c260644f72
+X-Runtime: 0.009765
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=20, socket_queue;dur=1.673, edge;dur=2.078
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=52751821-5d53-4369-b252-31c260644f72
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=52751821-5d53-4369-b252-31c260644f72
+X-App-Name: appstore
+X-Dc: gcp-us-central1,us-east1,gke
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=X6AuDNoxPvEWrioZ%2F8KU7Pw3wKRLOHfqJzJyEcKuAot%2FdKSpyeEMSwhuY24Cu606BLUpaH8nTfw9jUnuasyx4S5H53cCohTryRpD3uRqskiMJLVwdolwmfAOiAis5ONyhgY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 720762258f2d7570-KUL
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

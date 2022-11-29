@@ -1,0 +1,32 @@
+Date: Sat, 23 Jul 2022 14:04:34 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/sweet-upsell>; rel="canonical"
+Etag: W/"aa3eb5b0f564a29677c9ad19cffe35d3"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_y=2e2cf454-a9bc-48ce-8e01-ef1d6e244d13; domain=shopify.com; path=/; expires=Sun, 23 Jul 2023 14:04:33 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify_s=845bae7b-1966-4800-8101-50f816d94176; domain=shopify.com; path=/; expires=Sat, 23 Jul 2022 14:34:33 GMT; secure; SameSite=Lax
+Set-Cookie: _y=2e2cf454-a9bc-48ce-8e01-ef1d6e244d13; domain=shopify.com; path=/; expires=Sun, 23 Jul 2023 14:04:33 GMT; secure; SameSite=Lax
+Set-Cookie: _s=845bae7b-1966-4800-8101-50f816d94176; domain=shopify.com; path=/; expires=Sat, 23 Jul 2022 14:34:33 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=8c50ce54fcc648b34e11435559a3b13a; path=/; expires=Tue, 23 Aug 2022 00:33:40 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 13e92f4d-668d-4481-9cfb-06eb3e231f5f
+X-Runtime: 0.301366
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=303, socket_queue;dur=1.741, edge;dur=1.095
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=13e92f4d-668d-4481-9cfb-06eb3e231f5f
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=13e92f4d-668d-4481-9cfb-06eb3e231f5f
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jK%2FE3kp%2FhhyrXeoQQ%2BrhocoOxAzh5UMXotWGmWvoUHAPBI8Sye8YGQcgUSvYzDgK7tO1%2FCz1K4fK%2BF2qbZrh0HABuQVmG86rZQoF35yhKTgPdf7LUoKsWgFxm%2FkUb%2FK5j5k%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 72f4f7480d613045-BOS
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

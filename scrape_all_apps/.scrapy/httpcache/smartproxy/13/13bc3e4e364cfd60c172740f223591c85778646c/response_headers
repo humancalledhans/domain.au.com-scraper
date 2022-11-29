@@ -1,0 +1,23 @@
+Content-Length: 145
+Date: Mon, 01 Aug 2022 06:42:47 GMT
+Content-Type: text/plain
+Content-Security-Policy: frame-ancestors 'self';
+Content-Security-Policy: frame-ancestors 'self';
+X-Xss-Protection: 1; mode=block
+Last-Modified: Sat, 30 Jul 2022 00:41:53 GMT
+Etag: "a7-5e4fb086f7640-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Via: 1.1 google
+Cache-Control: public, max-age=7200, must-revalidate
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: HIT
+Age: 2610
+Accept-Ranges: bytes
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yk0YHq2QvhzTH116dprlrpFFeaRDvM6tuY37T9WjtSC4Zf5mju0lZyttmWBUrHIDEwYYyUmP9eN51ICerixWBoUnM5T8vOGQRZJH6qnS8CM08AuujswoI7MuzO%2F7mwqI4fSe%2Fw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Strict-Transport-Security: max-age=2592000; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 733c98861c3d31af-LAX

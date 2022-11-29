@@ -1,0 +1,29 @@
+Date: Wed, 27 Jul 2022 07:10:01 GMT
+Content-Type: text/plain; charset=utf-8
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/stageme_live_shopping>; rel="canonical"
+Cache-Control: no-cache
+Set-Cookie: _shopify_s=a9d1abf2-44bb-4819-a205-dee2a2065b0e; domain=shopify.com; path=/; expires=Wed, 27 Jul 2022 07:40:01 GMT; secure; SameSite=Lax
+Set-Cookie: _y=a471ea8d-abbd-4fab-aac7-0301c12a3436; domain=shopify.com; path=/; expires=Thu, 27 Jul 2023 07:10:01 GMT; secure; SameSite=Lax
+Set-Cookie: _s=a9d1abf2-44bb-4819-a205-dee2a2065b0e; domain=shopify.com; path=/; expires=Wed, 27 Jul 2022 07:40:01 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=ebf974f364524231078aa199934214af; path=/; expires=Fri, 26 Aug 2022 17:39:07 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 36ec0561-be22-4feb-9687-c6a9271eb4af
+X-Runtime: 0.010632
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=24, socket_queue;dur=1.44, edge;dur=2.22
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=36ec0561-be22-4feb-9687-c6a9271eb4af
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=36ec0561-be22-4feb-9687-c6a9271eb4af
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=B88Sk%2BmeuxqcMmYi7HjiFmnphXX05zULs9ccwuOOQ3xYVAiL6Xu5udFKRYjU5yFM%2BHHk3Ogwo5wO%2B0y1MkJGpkzoTwWnSBQM9R88UKx8hcr3xKaeMY9MFk3S6u%2B2Pe58bCA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 73138d8c9cfcae12-BOS
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

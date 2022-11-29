@@ -1,0 +1,30 @@
+Date: Fri, 19 Aug 2022 13:13:49 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/shirtigo-cockpit>; rel="canonical"
+Etag: W/"84b96f09f534f476eed40def188ee2ac"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _y=f87f59ad-3d2a-493f-8bd6-56e583a485c3; domain=shopify.com; path=/; expires=Sat, 19 Aug 2023 13:13:48 GMT; secure; SameSite=Lax
+Set-Cookie: _s=9051df3d-1376-442a-a1f9-a9b0321ba36e; domain=shopify.com; path=/; expires=Fri, 19 Aug 2022 13:43:48 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=8d3469b599daa95dcff689ea7c32b279; path=/; expires=Sun, 18 Sep 2022 23:42:55 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 61d61fb0-ac0d-4212-8542-c939deda9553
+X-Runtime: 0.310194
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=311, socket_queue;dur=1.186, edge;dur=2.059
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=61d61fb0-ac0d-4212-8542-c939deda9553
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=61d61fb0-ac0d-4212-8542-c939deda9553
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VVRZN%2BYRBl4%2B5KUVaChBKXwOPR9l74%2F9cvSTl9HMiA7K8Q%2BHr4ymqIOSZbElzW%2FBZ4W7ynbEOIIOGN3CdwBvVvgyDJiTrd0bQyZvYKEFmVMWJwncNBeLA7kZ9K2goKlxiFU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 73d32610cf7f7a8f-LAX
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
