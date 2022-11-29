@@ -1,0 +1,30 @@
+Date: Wed, 27 Jul 2022 07:10:15 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/quickbooks-online>; rel="canonical"
+Etag: W/"202e3525828892156c45e1e4603f3a44"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _y=8c508c1c-fd08-4912-8ed6-97b8d03579ab; domain=shopify.com; path=/; expires=Thu, 27 Jul 2023 07:10:14 GMT; secure; SameSite=Lax
+Set-Cookie: _s=5f8828d6-6a45-4d4b-aad8-6860f7a0b9d4; domain=shopify.com; path=/; expires=Wed, 27 Jul 2022 07:40:14 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=f3311124fcf990ec8be3359660908913; path=/; expires=Fri, 26 Aug 2022 17:39:21 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 38f53c21-77aa-4bc9-a342-89164733daef
+X-Runtime: 0.990544
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=1004, socket_queue;dur=1.655, edge;dur=1.088
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=38f53c21-77aa-4bc9-a342-89164733daef
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=38f53c21-77aa-4bc9-a342-89164733daef
+X-App-Name: appstore
+X-Dc: gcp-us-central1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FhC33fdXtloLf0OK%2B1iomRRJqCRhHfPXwca%2B%2FzDEPMqk%2B1Bf5tPeEVJhKrDjWKdEHtueHfEyLt8aMawUpoSQr1qRVEcIlBsorqsr4FmXCqbA%2B%2FhjAPJu2UCE9dP%2BUMKhsqc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 73138dda69929e6a-SJC
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

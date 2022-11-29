@@ -1,0 +1,30 @@
+Content-Length: 21
+Date: Mon, 14 Nov 2022 11:09:57 GMT
+Content-Type: text/plain; charset=utf-8
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/spice-product-add-ons>; rel="canonical"
+Cache-Control: no-cache
+Set-Cookie: _shopify_y=d2daff77-c070-4059-a1f8-1906f6944124; domain=shopify.com; path=/; expires=Tue, 14 Nov 2023 11:09:57 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify_s=7311001a-9701-44c9-b3ba-96da8d817f90; domain=shopify.com; path=/; expires=Mon, 14 Nov 2022 11:39:57 GMT; secure; SameSite=Lax
+Set-Cookie: _y=d2daff77-c070-4059-a1f8-1906f6944124; domain=shopify.com; path=/; expires=Tue, 14 Nov 2023 11:09:57 GMT; secure; SameSite=Lax
+Set-Cookie: _s=7311001a-9701-44c9-b3ba-96da8d817f90; domain=shopify.com; path=/; expires=Mon, 14 Nov 2022 11:39:57 GMT; secure; SameSite=Lax
+X-Request-Id: 7b362263-2adb-4847-9499-d34a315b53fd
+X-Runtime: 0.008790
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=10, socket_queue;dur=2.288, edge;dur=0.078
+Server-Timing: cfRequestDuration;dur=283.999920
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=7b362263-2adb-4847-9499-d34a315b53fd
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=7b362263-2adb-4847-9499-d34a315b53fd
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Cf-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=G2t3MVI1DHW5bI1l6fjGLykPebpauOCcaHgKkxPTCIM7dEDEf%2BFcexTAV39inh5vxAohy9T0sffN3X9ips2CivET4pb8ASgosKn7ttzPfif28Mzv%2F%2FGBxB4OXgvYAa11Om4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 769f4c434b1d4ca7-SIN
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

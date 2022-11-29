@@ -1,0 +1,30 @@
+Content-Length: 21
+Date: Mon, 14 Nov 2022 11:08:41 GMT
+Content-Type: text/plain; charset=utf-8
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/upmail-upsell-cross-sell-email-sms>; rel="canonical"
+Cache-Control: no-cache
+Set-Cookie: _shopify_y=0a242b52-dd58-4202-ac5d-b7ccc6b70d01; domain=shopify.com; path=/; expires=Tue, 14 Nov 2023 11:08:41 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify_s=59998a71-1954-4b74-9f5f-55ecef3936ad; domain=shopify.com; path=/; expires=Mon, 14 Nov 2022 11:38:41 GMT; secure; SameSite=Lax
+Set-Cookie: _y=0a242b52-dd58-4202-ac5d-b7ccc6b70d01; domain=shopify.com; path=/; expires=Tue, 14 Nov 2023 11:08:41 GMT; secure; SameSite=Lax
+Set-Cookie: _s=59998a71-1954-4b74-9f5f-55ecef3936ad; domain=shopify.com; path=/; expires=Mon, 14 Nov 2022 11:38:41 GMT; secure; SameSite=Lax
+X-Request-Id: a74e455d-dd1f-4406-ab93-54a0a4f98ba2
+X-Runtime: 0.008836
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=16, socket_queue;dur=1.381, edge;dur=1.066
+Server-Timing: cfRequestDuration;dur=313.000202
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=a74e455d-dd1f-4406-ab93-54a0a4f98ba2
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=a74e455d-dd1f-4406-ab93-54a0a4f98ba2
+X-App-Name: appstore
+X-Dc: gcp-us-central1,us-east1,gke
+Cf-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OPtGzwOTlHgxwNmsZH9pR%2BdkVEprgLY9Ao%2FoQar4ca75SS4RfVrQ17y1LF%2BH2fMgUVXLvxEB%2BcKIiPj5GVcEc5G3pFhWlgHrXKJUhvzxGcY2zI0sChabvoJsQg%2BmlU4gWGw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 769f4a640fde4ca7-SIN
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

@@ -1,0 +1,30 @@
+Date: Thu, 01 Sep 2022 14:18:17 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/quadpay>; rel="canonical"
+Etag: W/"209639ab86ce28cdd5a948ef30fd815d"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_s=080d7db2-1c8a-4c0b-99f7-1b489076319e; domain=shopify.com; path=/; expires=Thu, 01 Sep 2022 14:48:17 GMT; secure; SameSite=Lax
+Set-Cookie: _y=b2aafd93-f37c-49f0-815c-ad6814745371; domain=shopify.com; path=/; expires=Fri, 01 Sep 2023 14:18:17 GMT; secure; SameSite=Lax
+Set-Cookie: _s=080d7db2-1c8a-4c0b-99f7-1b489076319e; domain=shopify.com; path=/; expires=Thu, 01 Sep 2022 14:48:17 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=39421fd6b03549b4fdb68243fe885794; path=/; expires=Sun, 02 Oct 2022 00:47:23 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 1fd960bd-2962-4f63-b815-8dbdad49a055
+X-Runtime: 0.271269
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=273, socket_queue;dur=2.214, edge;dur=0.082
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=1fd960bd-2962-4f63-b815-8dbdad49a055
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=1fd960bd-2962-4f63-b815-8dbdad49a055
+X-App-Name: appstore
+X-Dc: gcp-us-central1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=asqN8RWzCC10lhg3Sl7k68ou8VY2dg9VIvgM2ZbLzkdo5PThsvlcj8cwAChwWVpnigWJRgJTVZAn0RgqPMGn9g8nA1mF9Gi62uWBJrMVmR5596bxMuviAYOxlfHHnkIXTTk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 743ea262fc967c29-LAX
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
