@@ -1,0 +1,29 @@
+Date: Wed, 27 Jul 2022 07:09:40 GMT
+Content-Type: text/plain; charset=utf-8
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/booking-suite-by-metizsoft>; rel="canonical"
+Cache-Control: no-cache
+Set-Cookie: _shopify_s=6fd8e4e8-732f-46ed-9e17-b10789f463b7; domain=shopify.com; path=/; expires=Wed, 27 Jul 2022 07:39:40 GMT; secure; SameSite=Lax
+Set-Cookie: _y=0cac7e82-708b-4e3e-8a4a-b67a78357571; domain=shopify.com; path=/; expires=Thu, 27 Jul 2023 07:09:40 GMT; secure; SameSite=Lax
+Set-Cookie: _s=6fd8e4e8-732f-46ed-9e17-b10789f463b7; domain=shopify.com; path=/; expires=Wed, 27 Jul 2022 07:39:40 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=b138019d89fb8353c66dc681a68522fc; path=/; expires=Fri, 26 Aug 2022 17:38:46 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: f730d35e-e884-4a1f-83ce-0a661218ac1f
+X-Runtime: 0.122120
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=133, socket_queue;dur=1.51, edge;dur=2.057
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=f730d35e-e884-4a1f-83ce-0a661218ac1f
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=f730d35e-e884-4a1f-83ce-0a661218ac1f
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zGmn%2FOmJIA9OMPCuwev01YY%2B84Z0%2FuFADFB%2BADdCTMXwCrPrsQcPaTu071X%2FkNjfQj3I3Cn%2FoieVLTr5SQR2MychNYxq9ZUIFhkBf3aEEHmQhIdvwjkI3ptYKedtagA67Eg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 73138d07dd838298-IAD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

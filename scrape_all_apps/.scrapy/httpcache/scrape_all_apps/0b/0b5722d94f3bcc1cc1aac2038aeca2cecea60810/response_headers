@@ -1,0 +1,31 @@
+Date: Tue, 26 Jul 2022 17:30:13 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/vistanova>; rel="canonical"
+Etag: W/"5b8eff8681a7334dbfceeb6c1fa90c9c"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_s=0225a747-d832-4303-9c7f-3f40c8771a2a; domain=shopify.com; path=/; expires=Tue, 26 Jul 2022 18:00:12 GMT; secure; SameSite=Lax
+Set-Cookie: _y=c3874161-4ecb-4198-9eec-5b6be678c6c6; domain=shopify.com; path=/; expires=Wed, 26 Jul 2023 17:30:12 GMT; secure; SameSite=Lax
+Set-Cookie: _s=0225a747-d832-4303-9c7f-3f40c8771a2a; domain=shopify.com; path=/; expires=Tue, 26 Jul 2022 18:00:12 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=8ce12bc48c65c4775280d933bafe6661; path=/; expires=Fri, 26 Aug 2022 03:59:19 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 138a024f-f90c-4cd3-9ade-b3d4445f1a36
+X-Runtime: 0.440556
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=464, socket_queue;dur=3.416, edge;dur=2.061
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=138a024f-f90c-4cd3-9ade-b3d4445f1a36
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=138a024f-f90c-4cd3-9ade-b3d4445f1a36
+X-App-Name: appstore
+X-Dc: gcp-us-central1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RokeQQjrs8%2B2JXexBONgzYcMlEwvrLUrhLX1hSH4AQ2GYpc7VyxZpB2Z8QsI6NBZadf5jZF%2BWlponMhltfcMkMmgJxq4NIoUew81b7DbGieFzKbl7PxspZI0e7silYnxH7o%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 730edca4fb520bbe-DFW
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

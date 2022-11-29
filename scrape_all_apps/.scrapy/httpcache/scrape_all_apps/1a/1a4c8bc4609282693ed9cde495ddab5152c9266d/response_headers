@@ -1,0 +1,32 @@
+Date: Mon, 14 Nov 2022 11:08:35 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/subscription-payments>; rel="canonical"
+Etag: W/"16dd54bd298c0cb328a50ef4f4fec5b4"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_y=17f0bd61-8577-44df-a058-ccec6e921668; domain=shopify.com; path=/; expires=Tue, 14 Nov 2023 11:08:34 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify_s=9cfe52f1-b759-418a-b8fd-b0ce21f4c717; domain=shopify.com; path=/; expires=Mon, 14 Nov 2022 11:38:34 GMT; secure; SameSite=Lax
+Set-Cookie: _y=17f0bd61-8577-44df-a058-ccec6e921668; domain=shopify.com; path=/; expires=Tue, 14 Nov 2023 11:08:34 GMT; secure; SameSite=Lax
+Set-Cookie: _s=9cfe52f1-b759-418a-b8fd-b0ce21f4c717; domain=shopify.com; path=/; expires=Mon, 14 Nov 2022 11:38:34 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=18673748a5cc8c6058a03274a37f39fe; path=/; expires=Wed, 14 Dec 2022 21:37:40 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: e3cd94af-2034-432c-8cac-999c4a23830d
+X-Runtime: 0.383405
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=394, socket_queue;dur=1.421, edge;dur=5.081
+Server-Timing: cfRequestDuration;dur=845.999956
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=e3cd94af-2034-432c-8cac-999c4a23830d
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=e3cd94af-2034-432c-8cac-999c4a23830d
+X-App-Name: appstore
+X-Dc: gcp-us-central1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qPlYyTYaZ%2FxlvGdjYUFMsuLHISDtu3Bl4fl26P59FJtscrn9J3rYMoxNYt7CwnaUxl4NxoJYm8guDsIdZMyYxthqVGmlOdMCKBj0xrB3f4zylx7i%2F7WV2uOwBXHleLSe8wc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 769f4a3acf53a023-SIN
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

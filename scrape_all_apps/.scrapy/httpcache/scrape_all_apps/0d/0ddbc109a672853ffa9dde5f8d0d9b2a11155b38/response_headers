@@ -1,0 +1,30 @@
+Date: Thu, 01 Sep 2022 14:16:51 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Accept-Ch: Save-Data
+Link: <https://apps.shopify.com/arcs-send-invoice-for-payment>; rel="canonical"
+Etag: W/"d6741134a0140396d559bb4ebfebd283"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _shopify_s=95bd51e0-223c-42e6-8de5-628fee72a66e; domain=shopify.com; path=/; expires=Thu, 01 Sep 2022 14:46:51 GMT; secure; SameSite=Lax
+Set-Cookie: _y=878e2cd8-ded0-4f41-822f-4ff151ee41c9; domain=shopify.com; path=/; expires=Fri, 01 Sep 2023 14:16:51 GMT; secure; SameSite=Lax
+Set-Cookie: _s=95bd51e0-223c-42e6-8de5-628fee72a66e; domain=shopify.com; path=/; expires=Thu, 01 Sep 2022 14:46:51 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify-app_store_session5=a4cba39e821ac8f4896c896be90491f9; path=/; expires=Sun, 02 Oct 2022 00:45:57 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 5ee44514-ed86-4e25-8e4f-0ae2b69a2eb5
+X-Runtime: 0.312724
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server-Timing: processing;dur=314, socket_queue;dur=1.413, edge;dur=1.069
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=5ee44514-ed86-4e25-8e4f-0ae2b69a2eb5
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=v2%2Fapp_listings&source%5Buuid%5D=5ee44514-ed86-4e25-8e4f-0ae2b69a2eb5
+X-App-Name: appstore
+X-Dc: gcp-us-east1,us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ufzAArlEvYu1kFRXyAgsGKRyux%2Fmb7GQjg0YxkOoa3Jr4fMxZ55nQ9zsdtFRVR%2Bd17RPjRYKGh%2F%2B8giTuTSbAp8IeQXUvpmucj%2FKqExmxZ5L4q6QXzagwIDFxx9OL8j5BCM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 743ea0493c776ff8-IAD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
